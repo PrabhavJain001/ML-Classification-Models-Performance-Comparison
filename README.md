@@ -6,7 +6,11 @@ Algorithms Used :
 -Logistic Regression Classification
 
 -K-Nearest Neighbour (KNN) Classification
+
 -Support Vector Machine (SVM) Classification
+
 -Naive Bayes Classification
+
 -Decision Tree Classification
+
 -Random Forest Classification
